@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# extras
+.idea
+.DS_Store
+*/datasets/
+*/data/
+*.vscode
+*/checkpoints
+/notebooks/checkpoints/
+/code/
+/notebooks/predictions/
